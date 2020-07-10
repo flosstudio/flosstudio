@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: CC0-1.0
+
+Name: lmms
+Summary: Music suite for electronic music production
+Licenses:
+  - GPL-2.0
+Formats:
+  - ALSA
+  - JACK
+Latest version: "1.2.2"
+Categories:
+  - DAW (Digital Audio Workstation)
+  - Plugin host
+  - Sequencer
